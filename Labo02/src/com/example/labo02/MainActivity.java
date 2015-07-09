@@ -1,3 +1,8 @@
+
+/***
+* @author Guilherme Oliveira
+*/
+
 package com.example.labo02;
 
 import android.support.v7.app.ActionBarActivity;
